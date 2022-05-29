@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="779fc21f-bafd-43ab-8ed5-0f3451b40210" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="63" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="27HYZ0erDqbQVJcekrhw4aSnGxN" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yogendra.module01.example02.writer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yogendra.module01.example08.java.Runner" />
+      <module name="springcert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yogendra.module01.example08.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yogendra.module01.example08.annotation.Runner" />
+      <module name="springcert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yogendra.module01.example08.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yogendra.module01.example09.Runner" />
+      <module name="springcert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yogendra.module01.example09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yogendra.module01.example10.Runner" />
+      <module name="springcert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yogendra.module01.example10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yogendra.module01.example06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yogendra.module01.example06" />
+      <option name="MAIN_CLASS_NAME" value="com.yogendra.module01.example06.EmployeeServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spring-cert [exec:java]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Runner (1)" />
+      <item itemvalue="Application.Runner (2)" />
+      <item itemvalue="JUnit.EmployeeServiceTest" />
+      <item itemvalue="Maven.spring-cert [exec:java]" />
+      <item itemvalue="Application.Runner (3)" />
+      <item itemvalue="Application.Runner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Runner (3)" />
+        <item itemvalue="Application.Runner (2)" />
+        <item itemvalue="Application.Runner (1)" />
+        <item itemvalue="JUnit.EmployeeServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../code-commit-repo/lf-auth-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../code-commit-repo/lf-data-model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../code-commit-repo/lf-utilities" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lagom-practice/crud" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lagom-practice/lagom-first-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lagom-practice/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lf-data-models" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lf-microservice/loanframe-services/lf-utilities" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lf-primary-hub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lms/lf-lms-microservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../loanframe.com" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../models/lf-data-model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-poc/play-crud" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../poc/scalaactor" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="779fc21f-bafd-43ab-8ed5-0f3451b40210" name="Default Changelist" comment="" />
+      <created>1652522979758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652522979758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springcert$EmployeeServiceTest_shouldGenerateReport.ic" NAME="EmployeeServiceTest.shouldGenerateReport Coverage Results" MODIFIED="1653139558169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yogendra.module01.example06.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springcert$EmployeeServiceTest.ic" NAME="EmployeeServiceTest Coverage Results" MODIFIED="1653139567988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yogendra.module01.example06.*</FILTER>
+    </SUITE>
+  </component>
+</project>
